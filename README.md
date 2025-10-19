@@ -2,6 +2,8 @@
 
 An intelligent, AI-powered configuration generator for Neovim's Packer.nvim plugin manager.
 
+# 🥳 Full Version coming soon ........
+
 ## Features
 
 ### Core Intelligence System
