@@ -1,6 +1,6 @@
 # Packer.ai - Intelligent Neovim Configuration Generator
 
-An intelligent, AI-powered configuration generator for Neovim's Packer.nvim plugin manager. Built with emergent intelligence principles for context-aware, adaptive configuration generation.
+An intelligent, AI-powered configuration generator for Neovim's Packer.nvim plugin manager.
 
 ## Features
 
@@ -44,7 +44,7 @@ An intelligent, AI-powered configuration generator for Neovim's Packer.nvim plug
 
 - **FastAPI** - Modern Python web framework
 - **MongoDB** - Document storage for plugins and configurations
-- **emergentintegrations** - LLM integration (GPT-5)
+- **AI integrations** - LLM integration (GPT-5)
 - **Motor** - Async MongoDB driver
 
 ### Frontend
